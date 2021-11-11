@@ -1,4 +1,4 @@
-[![Outlook Badge][outlook]](mailto:arthur.pellegrini@outlook.fr)      [![Linkedin Badge][linkedin]](https://www.linkedin.com/in/arthur-pellegrini-064160220/)
+[![Outlook Badge][outlook]](mailto:arthur.pellegrini@outlook.fr)      [![Linkedin Badge][linkedin]](https://www.linkedin.com/in/arthur-pellegrini-064160220/)   [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/WWW_icon_-_Digital_Preservation.png" height=25px width=25px>](https://arthurpellegrini.github.io/)
 
 <img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello Word <img src="https://imgur.com/TFzFv3D.gif" height=25px width=25px>
 ============================================================================================================================================
