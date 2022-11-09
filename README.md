@@ -3,7 +3,7 @@
 <img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello Word <img src="https://imgur.com/TFzFv3D.gif" height=25px width=25px>
 ============================================================================================================================================
 
-*My name is Arthur, currently a student in DUT Computer Science. I am passionate about new technologies. I am a very curious person, I like to learn new things every day.* 
+*My name is Arthur, currently a student in Computer Science. I am passionate about new technologies. I am a very curious person, I like to learn new things every day.* 
 
 <img src="https://wpsoul.com/wp-content/uploads/2019/04/Html-512.png" height=25px width=25px> Languages and Tools
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
