@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and Rust**
-
-- 📫 How to reach me **arthur.pellegrini@outlook.fr**
+- 🌱 I’m currently learning **Rust**
 
 - ⚡ Fun fact **I'm also passionate about video games**
 
